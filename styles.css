@@ -2,6 +2,20 @@ body {
     background-color: bisque;
 }
 
+h1 {
+    text-align: center;
+}
+
 #main {
-    background-color:rgb(242, 206, 161)
+    background-color:rgb(185, 131, 66)
+}
+
+div {
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+li {
+    text-align: left;
 }
